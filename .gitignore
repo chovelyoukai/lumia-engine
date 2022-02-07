@@ -1,0 +1,5 @@
+src/scripts
+src/.gdbinit
+src/build
+src/bin
+*.swp
